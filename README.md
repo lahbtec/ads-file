@@ -1,7 +1,5 @@
 betweendigital.com, 45827, RESELLER
-
 criteo.com, B-057601, RESELLER, 9fac4a4a87c2a44f
-
 lacunads.com, lcb555b3bc8667a09a, RESELLER
 lacunads.com, LCb555b3bc8667a09a, RESELLER
 lijit.com, 556191, RESELLER, fafdf38b16bf6b2b
